@@ -1,4 +1,4 @@
-# customers_clustering_analysis
+# Wholesales Customers Data Analysis
 ## Cluster Analysis (Hierarchical & K-Means)
 ### Introduction and Business Problem
 - Compnay XYZ, a wholesales distributor operating in Portugal serves a diverse range of business clients, including retailer, restaurants, hotels and cafes. The marketing manager of XYZ want to understand more about their clients' spending patterns. By gaining insights, the goal of this anlaysis is to help XYZ company to tailor their strategies to satisfy clients' demand and manage inventory well.
